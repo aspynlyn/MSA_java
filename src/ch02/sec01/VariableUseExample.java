@@ -18,7 +18,7 @@ public class VariableUseExample {
 
     int totalMinute = minute + hour * 60; // 185
     System.out.println("총 " + totalMinute + "분");
-    자바 공부 화이팅 열심히 하도록
+
   }
 
 }
