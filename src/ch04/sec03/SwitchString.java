@@ -19,5 +19,6 @@ public class SwitchString {
       default:
         System.out.println("성별을 입력해주세요");
     }
+    scanner.close(); // 쓰기가 리소스를 많이 잡아먹어서 원칙적으로는 닫아줘야함
   }
 }
