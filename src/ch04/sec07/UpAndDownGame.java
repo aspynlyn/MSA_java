@@ -27,7 +27,7 @@ public class UpAndDownGame {
         System.out.println("Down!");
       }else if(input < answer){
         System.out.println("Up!");
-      }else if(input == answer){
+      }else{
         System.out.println("정답!");
         break;
       }
