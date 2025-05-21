@@ -43,6 +43,7 @@ public class NumberBaseballGame {
             } else {
               b++;
             }
+            break;
           }
         }
       }
